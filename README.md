@@ -8,3 +8,11 @@
 WiiCoder/WiiCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangduanduan&count_private=true&show_icons=true&&theme=onedark" />
+</span>
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangduanduan&theme=onedark&layout=compact" />
+</span>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wangduanduan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
